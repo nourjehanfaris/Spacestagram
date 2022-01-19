@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+html{
+  height: 100%;
+}
+
+body {
+    min-width: 400px;
+    min-height: 100%;
+    overflow: auto;
+    background: #000 url('img/Galaxy_Bckgrnd.png') no-repeat fixed center center/cover;
+    height: 100vh;
+    color: rgb(212, 134, 38);
+    font-family: 'Righteous', cursive;
+    display: flex;
+    flex-direction: column;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 1500px;
+  min-width: 400px;
+  min-height: 100%;
+  margin: auto;
+  padding: 0 20px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header {
+  height: 280px;
+  min-width: 100px;
+  min-height: 50px;
+  width:auto;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+ul {
+  list-style-type: none;
+}
+h1{
+  color: rgb(177, 97, 0);
+}
+strong{
+  color: rgb(177, 97, 0);
+  font-family: 'Righteous', cursive;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.imageContainer{
+  object-fit: cover;
+  object-position: top;
+  background: #200d00;
+  border: 10px solid #160900;
+  border-radius: 15px;
+  margin: 8px;
+  box-shadow: 5px 8px 12px black;
+  justify-content: center;
+}
+input{
+  border: none;
+  border-bottom: 2px solid bisque;
+  font-size: 25px;
+  width: 60%;
+  outline: none;
+  color: rgb(253, 169, 14);
+  background-color: transparent;
+  margin-bottom: 25px;
+  font-family: 'Righteous', cursive;
+}
+input::placeholder{
+  opacity: .6;
+  color: rgb(247, 178, 89);
+  font-family: 'Righteous', cursive;
+}
+.likeBtn{
+  width: 150px;
+  height: auto;
+  border: none;
+  -webkit-filter: brightness(100%);
+}
+.likeBtn:hover {
+  -webkit-filter: brightness(80%);
+}
+.LoadBtn {
+  cursor: pointer;
+	font-size: 20px;
+  font-family: 'Righteous', cursive;
+	border-radius: 10px;
+	border: none;
+	padding: 18px;
+  margin-bottom: 25px;
+  margin-inline-end: 10px;
+  color: rgb(212, 134, 38);
+  background: #6e2d01;
+  box-shadow: 5px 8px 12px rgb(22, 11, 0);
+}
+.LoadBtn:hover {background-color: #3d1a00}
+.LoadBtn:active {
+  background-color: #160900;
+  box-shadow: 0 4px 6px black;
+  transform: translateY(4px);
+}
+.buttonWrapper
+{
+  display: inline-block;
+  position: fixed;
+  top: 90%;
+  text-align: center; 
+}
+.masonryGrid {
+  display: -webkit-box; 
+  display: -ms-flexbox; 
+  display: flex;
+  margin-left: -30px; 
+  width: auto;
+}
+.masonryGridColumn {
+  padding-left: 30px; 
+  background-clip: padding-box;
+}
+.masonryGridColumn > div { 
+  margin-bottom: 30px;
+}
