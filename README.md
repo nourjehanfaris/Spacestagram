@@ -38,6 +38,5 @@ Due to limited time, I could not take Spacestagram as far as I wanted to. My mai
 
 ## Acknowledgments
 
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [NASA APOD APIs](https://api.nasa.gov/#apod)
 * [React Masonry CSS Component](https://www.npmjs.com/package/react-masonry-css/v/1.0.14)
