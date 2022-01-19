@@ -1,6 +1,6 @@
 # Spacestagram
 
-The world's snazziest image sharing app in collaboration with NASA's APOD API where you can explore images that are out of this world (no pun intended)!
+Explore space using the Spacetagram app: an app that uses NASA's Astronomy Picture od the Day API to provide images that are actually out of this world!
 
 ## Getting Started
 
