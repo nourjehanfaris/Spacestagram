@@ -1,6 +1,6 @@
 # Spacestagram
 
-Explore space using the Spacetagram app: an app that uses NASA's Astronomy Picture od the Day API to provide images that are actually out of this world!
+Explore space using the Spacestagram app: an app that uses NASA's Astronomy Picture of the Day API to provide images that are actually out of this world!
 
 ## Getting Started
 
