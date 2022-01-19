@@ -33,7 +33,7 @@ Due to limited time, I could not take Spacestagram as far as I wanted to. My mai
 
 ## Version History
 
-* 0.1
+* Version 0.1:
     * Initial Release
 
 ## Acknowledgments
