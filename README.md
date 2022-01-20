@@ -1,5 +1,5 @@
 
-![Title](https://user-images.githubusercontent.com/71287903/150240842-a75c7bd9-60e3-41f8-bc25-50f8953991bb.png)
+![Title](https://user-images.githubusercontent.com/71287903/150240842-a75c7bd9-60e3-41f8-bc25-50f8953991bb.png width = 100)
 
 Explore space using the Spacestagram app: an app that uses NASA's Astronomy Picture of the Day API to provide images that are actually out of this world!
 
