@@ -1,4 +1,5 @@
-# Spacestagram
+
+![Title](https://user-images.githubusercontent.com/71287903/150240842-a75c7bd9-60e3-41f8-bc25-50f8953991bb.png)
 
 Explore space using the Spacestagram app: an app that uses NASA's Astronomy Picture of the Day API to provide images that are actually out of this world!
 
@@ -16,7 +17,7 @@ Some of the interesting features of the Spacestagram app include the loading gif
 
 In order to not overwhelm the app, only 100 images from the NASA APOD API are displayed at a time. However, using the refresh button near the bottom of the page, you can load 100 new ones to explore! Since 100 is a big number and it takes a while to scroll through the images, the "Top" button was created to smoothly scroll back to the top of the window where the search bar is. 
 
-The graphics seen throughout the app can be found in the "src/img" folder. All of the graphics (excluding the spinner gif) were custom made for this project and were drawn using an iPad, Apple pencil, and the Procreate drawing app!
+The graphics seen throughout the app can be found in the "src/img" folder. The title/header graphic, background galaxy image, active and inactive like button graphics, and rocket favicon were custom made for this project and drawn using an iPad, Apple pencil, and the Procreate drawing app! 
 
 ## Future Improvemnets
 
