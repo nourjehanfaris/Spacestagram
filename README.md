@@ -1,5 +1,5 @@
 <p align = center>
-   <img src="https://user-images.githubusercontent.com/71287903/150240842-a75c7bd9-60e3-41f8-bc25-50f8953991bb.png" width="500">
+   <img src="https://user-images.githubusercontent.com/71287903/150241592-d1a91263-c483-4f5c-831b-d16d4a6ef765.png" width="1000">
 <p>
 Explore space using the Spacestagram app: an app that uses NASA's Astronomy Picture of the Day API to provide images that are actually out of this world!
 
