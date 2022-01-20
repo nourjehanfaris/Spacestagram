@@ -25,7 +25,7 @@ Due to limited time, I could not take Spacestagram as far as I wanted to. My mai
 
 1. A feature that enables liked images to remain liked and be stored so that users can acces them after leaving the page or hitting the refresh button. 
 2. A sharable link feature next to the like button (I was thinking of using a rocket in the shape of the classic airoplane send symbol).
-3. A "Load More" button (to replace the "Refresh" button) that would simply add 10 images to the images already displayed. I attempted to make this feature, but NASA APOD API is structured in a way that would make it hard to load more while retaining the past images (there's no "page" URL query). If there were a "Load More" button, I would reduce the images to only 10, and add another 10 each time it is pressed. This would reduce loading state time and look a lot less overwhelming. In addition, the user's likes woul still be visible for all teh previously loaded images instead of dissapearing entirely. 
+3. A "Load More" button (to replace the "Refresh" button) that would simply add 10 images to the images already displayed. I attempted to make this feature, but NASA APOD API is structured in a way that would make it hard to load more while retaining the past images (there's no "page" URL query). If there were a "Load More" button, I would reduce the images to only 10, and add another 10 each time it is pressed. This would reduce loading state time and look a lot less overwhelming. In addition, the user's likes would still be visible for all the previously loaded images instead of dissapearing entirely. 
 
 ## Author
 
