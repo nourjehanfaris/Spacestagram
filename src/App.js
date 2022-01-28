@@ -19,7 +19,7 @@ const App = () => {
   const [imageList, setImageList] = useState([]);
   const [isLoading, setIsLoading] = useState(true)
   const API_KEY = '4fdxFtNkZwq8H36afmKh1ImHEnzcQG95nAN9W28e';
-  const COUNT_VAL = 100;
+  const COUNT_VAL = 50;
 
   useEffect(() => {
     const fetchData = async () => {
